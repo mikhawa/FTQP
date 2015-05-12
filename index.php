@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <p>Nicolas est un noob !</p>
         <?php   
-        // put your code here
+        echo "Damien est une crotte";
         ?>
     </body>
 </html>
